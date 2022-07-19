@@ -7,6 +7,7 @@ This tool is made in bash and is ued to get the HTTP response codes of a list of
 Then we run the commands:
 
 ```chmod +x Genco.sh```
+
 ```./Genco.sh LIST```
 
 For example:
