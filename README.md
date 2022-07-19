@@ -1,5 +1,5 @@
 # Genco
-This tool is made in bash and is ued to get the HTTP response codes of a list of urls.
+This tool is made in bash and is used to get the HTTP response codes of a list of urls.
 
 # How do we use this tool
 ```git clone https://github.com/SysGerm/Genco.git```
