@@ -8,4 +8,5 @@ Then we run the command:
 ```./Genco.sh LIST```
 
 For example:
+```./Genco.sh urls.txt```
 
